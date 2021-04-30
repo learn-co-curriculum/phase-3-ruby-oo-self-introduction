@@ -1,4 +1,4 @@
-# Introduction to Self in Ruby
+# Introduction to Self
 
 For newly developing Rubyists, `self` can be a bit baffling. You've learned
 about the concept of the class, and that each object in Ruby has one. The
